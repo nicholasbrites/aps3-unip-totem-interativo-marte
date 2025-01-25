@@ -1,4 +1,4 @@
-# TOTEM INTERATIVO - 3º Semetres / UNIP
+# TOTEM INTERATIVO - 3º Semetre / UNIP
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com//nicholasbrites/aps3-unip-totem-interativo-marte/blob/main/LICENSE) 
 
