@@ -1,5 +1,8 @@
 # TOTEM INTERATIVO - 3º Semetres / UNIP
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com//nicholasbrites/aps3-unip-totem-interativo-marte/blob/main/LICENSE) 
+
+# Sobre
 Mais um projeto acadêmico no curso de Ciência da Computação, pelo terceiro semestre, da Universidade Paulista (2024/1).
 
 O objetivo foi criar um totem interativo, inteiramente na linguagem Java, para um museu que faria uma exposição sobre rovers e a exploração em marte. <br>
@@ -12,6 +15,8 @@ você passará pelas telas:
 - Quiz: Para entreter e testar os conhecimentos do usuário sobre o conteúdo, entregaremos 5 questões rápidas.
 - Avaliação: É muito importante recebermos um feedback sobre nosso projeto, assim o usuário informa o nível de satisfação.
 - Resumo: Ao final, o programa exibe mensagens personalizadas, e um pequeno relatório do seu desemepnho do quiz, e da média de acertos em geral, com a média da satisfação das pessoas.
+
+![Image](https://github.com/user-attachments/assets/dc5c54e0-e26a-40ab-ae1d-bac8cbfb2bf5)
 
 ![Image](https://github.com/user-attachments/assets/2cefa096-400e-4eb9-8380-8a24ede9d058)
 
